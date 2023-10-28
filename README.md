@@ -1,6 +1,7 @@
 # VBA-challenge
 
-#Overview
+# Overview
+
 I followed the provided instructions to create a VBA script that analyses stock data. 
 
 The script accomplishes the following tasks:
